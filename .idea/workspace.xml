@@ -20,22 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1ad770ec-4c65-413c-becf-d509a5f1ab6e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/._index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Cart/Cart.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Cart/Cart.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Header/Header.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Header/Header.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Products/Products.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Products/Products.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/constants/catalog.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/constants/root.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/localStorage.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -88,6 +72,7 @@
       <workItem from="1606713105014" duration="234000" />
       <workItem from="1606720380113" duration="56000" />
       <workItem from="1606834311483" duration="93000" />
+      <workItem from="1606834644401" duration="176000" />
     </task>
     <servers />
   </component>
