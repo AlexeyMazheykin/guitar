@@ -8,7 +8,7 @@ class Products {
                 <span class="products-item__name">${name}</span>
                  <img class="products-item__img"  src=${img} alt=${name}>
                  <span class="products-item__price">${price}</span>
-                <button class="products-item__btn">Добавте в корзину</button>
+                <button class="products-item__btn">Добавить в корзину</button>
             </li>
           `
         });
