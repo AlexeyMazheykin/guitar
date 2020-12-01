@@ -7,7 +7,7 @@ class Products {
             <li class="products-item">
                 <span class="products-item__name">${name}</span>
                  <img class="products-item__img"  src=${img} alt=${name}>
-                 <span class="products-item__price">${price}</span>
+                 <span class="products-item__price">🎸 ${price.toLocaleString('ru-RU')} USD</span>
                 <button class="products-item__btn">Добавить в корзину</button>
             </li>
           `
