@@ -7,9 +7,28 @@
     height: 95vh;
     margin: 0 auto;
     background-color: white;
-    list-style: none;
     padding: 20px;
+    display: flex;
+}
+.cart-list {
+    flex-basis: 500px;
+    margin-right: auto;
+    list-style: none;
 }
 .cart__item {
     margin-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+.cart-close {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    width: 35px;
+    height: 35px;
+    background-image: url("./icon/cancel.svg");
+    cursor: pointer;
+}
+.cart__item-price {
+    color: #acacac;
 }

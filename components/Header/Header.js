@@ -13,8 +13,4 @@ class Header {
         ROOT__HEADER.innerHTML = html;
     }
 }
-
 const header = new Header();
-
-const productStore = localStorageUtil.getProducts();
-header.render(productStore.length);

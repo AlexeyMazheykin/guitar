@@ -20,14 +20,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1ad770ec-4c65-413c-becf-d509a5f1ab6e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Cart/icon/cancel.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/catalog.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/components/Cart/Cart.css" beforeDir="false" afterPath="$PROJECT_DIR$/components/Cart/Cart.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/components/Cart/Cart.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/Cart/Cart.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Header/Header.css" beforeDir="false" afterPath="$PROJECT_DIR$/components/Header/Header.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/components/Header/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/Header/Header.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/components/Products/Products.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/Products/Products.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/localStorage.js" beforeDir="false" afterPath="$PROJECT_DIR$/utils/localStorage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constants/catalog.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,15 +63,19 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js.last.introduce.type" value="LET" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Background" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/components/Cart/icon" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_INHERITED" />
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -98,6 +105,11 @@
       <workItem from="1607278529749" duration="7930000" />
       <workItem from="1607327057166" duration="40000" />
       <workItem from="1607343048175" duration="8741000" />
+      <workItem from="1607369804635" duration="448000" />
+      <workItem from="1607370360948" duration="132000" />
+      <workItem from="1607370570240" duration="335000" />
+      <workItem from="1607371014285" duration="30000" />
+      <workItem from="1607371063514" duration="5902000" />
     </task>
     <servers />
   </component>
@@ -120,11 +132,20 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="270" y="23" key="SettingsEditor" timestamp="1606854649770">
-      <screen x="0" y="23" width="1280" height="732" />
+    <state x="560" y="188" key="#Plugins" timestamp="1607371042019">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="560" y="188" key="#Plugins/1920.0.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1607371042019" />
+    <state x="424" y="202" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607370774796">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="424" y="202" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1607370774796" />
+    <state x="405" y="23" key="SettingsEditor" timestamp="1607370208881">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="270" y="0" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1606854168917" />
     <state x="270" y="23" key="SettingsEditor/0.23.1280.732@0.23.1280.732" timestamp="1606854649770" />
+    <state x="405" y="23" key="SettingsEditor/1920.0.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1607370208881" />
     <state x="495" y="0" width="1441" height="1027" key="dock-window-1" timestamp="1606598506416">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -133,9 +154,11 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="305" y="185" key="run.anything.popup/0.0.1280.800@0.0.1280.800" timestamp="1606853970871" />
-    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1606579334847">
-      <screen x="0" y="0" width="1280" height="800" />
+    <state x="458" y="167" width="1005" height="913" key="search.everywhere.popup" timestamp="1607371028334">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="305" y="124" width="670" height="676" key="search.everywhere.popup/0.0.1280.800@0.0.1280.800" timestamp="1606579334847" />
+    <state x="458" y="167" width="1005" height="913" key="search.everywhere.popup/1920.0.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1607371028334" />
+    <state x="458" y="167" width="1005" height="913" key="search.everywhere.popup/1920.23.1280.777/0.0.1920.1080@0.0.1920.1080" timestamp="1607370677486" />
   </component>
 </project>

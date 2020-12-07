@@ -47,9 +47,6 @@ class Products {
         `;
         ROOT__PRODUCTS.innerHTML = html
     }
-
 }
-
 let prod = new Products();
-prod.render()
 
