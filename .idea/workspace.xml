@@ -21,6 +21,12 @@
   <component name="ChangeListManager">
     <list default="true" id="1ad770ec-4c65-413c-becf-d509a5f1ab6e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Cart/Cart.css" beforeDir="false" afterPath="$PROJECT_DIR$/components/Cart/Cart.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Cart/Cart.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/Cart/Cart.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Header/Header.css" beforeDir="false" afterPath="$PROJECT_DIR$/components/Header/Header.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Header/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/Header/Header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Products/Products.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/Products/Products.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/utils/localStorage.js" beforeDir="false" afterPath="$PROJECT_DIR$/utils/localStorage.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -87,6 +93,11 @@
       <workItem from="1606854200439" duration="477000" />
       <workItem from="1606854681761" duration="2500000" />
       <workItem from="1606939899264" duration="2685000" />
+      <workItem from="1607012582632" duration="480000" />
+      <workItem from="1607269741740" duration="1296000" />
+      <workItem from="1607278529749" duration="7930000" />
+      <workItem from="1607327057166" duration="40000" />
+      <workItem from="1607343048175" duration="8741000" />
     </task>
     <servers />
   </component>
